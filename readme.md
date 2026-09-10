@@ -24,6 +24,8 @@ conda activate books
 ```bash
 pip install -r requirements.txt
 ```
+# git commit -m "requirements added"
+# git push origin main
 
 ## 4. Run the app.py file
 ```bash
