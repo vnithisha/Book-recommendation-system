@@ -3,7 +3,7 @@
 - config.yaml
 - entity
 - config/configuration.py
-- - components
+- components
 - pipeline
 - main.py
 - app.py
