@@ -1,5 +1,5 @@
 import os
-import sys
+import sys # this package helps to catch the exception
 
 
 class AppException(Exception):
